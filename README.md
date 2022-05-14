@@ -1,7 +1,7 @@
 # MusicPad
 
 <p align="center">
-  <img width="400"  src="https://github.com/christanvt/MusicPad/blob/master/screenshot_musicpad.jpeg?raw=true">
+  <img width="400"  src="https://github.com/christanvt/MusicPad/blob/main/screenshot_musicpad.jpeg?raw=true">
 </p>
 
 <p align="center">
